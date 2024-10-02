@@ -1,0 +1,25 @@
+{
+  "name": "encryption-decryption",
+  "version": "1.0.0",
+  "description": "This package is used to encrypt-decrypt keys of an Object, array of object and normal string",
+  "main": "./src/common.js",
+  "module": "./src/es6.js",
+  "type": "module",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mdsaif0786/encryption-decryption.git"
+  },
+  "keywords": [
+    "encryption-decryption"
+  ],
+  "author": "Saif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mdsaif0786/encryption-decryption/issues"
+  },
+  "homepage": "https://github.com/Mdsaif0786/encryption-decryption#readme"
+}
