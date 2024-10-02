@@ -14,7 +14,7 @@
 To install the package, use npm:
 
 ```bash
-npm install encryption-decryption
+npm install encryption-decryption-easy
 ```
 
 ## Usage
