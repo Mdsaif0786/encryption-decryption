@@ -1,10 +1,9 @@
 {
   "name": "encryption-decryption-easy",
-  "version": "1.0.1",
+  "version": "1.0.7",
   "description": "This package is used to encrypt-decrypt keys of an Object, array of object and normal string",
   "main": "./src/common.js",
   "module": "./src/es6.js",
-  "type": "module",
 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
